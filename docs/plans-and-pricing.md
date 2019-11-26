@@ -12,6 +12,8 @@ You receive 10k free [packets](/faq/#what-are-packets) every month. This is enou
 | **1 month**                |                  8,928 |              44,640 |               89,280 |
 | **extra packets required** |                      0 |              34,640 |               79,280 |
 
+[Diagnostic data](/api/mqtt/#diagnostic-data) transfer is unlimited and does not consume packets.
+
 ## Purchase Extra Packets
 
 If you need a higher throughput, you can purchase extra packets. These packets are used only when you have no free packets left. To view prices, refer to the [Pricing](https://cloud4rpi.io/home#pricing) page.
